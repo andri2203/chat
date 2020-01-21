@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "877173757279",
+    "firebase_url": "https://pena-chat-343bc.firebaseio.com",
+    "project_id": "pena-chat-343bc",
+    "storage_bucket": "pena-chat-343bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877173757279:android:c8c982040d4584d8fc52ea",
+        "android_client_info": {
+          "package_name": "com.example.atchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877173757279-9o93s4muu2kgl0c6ao6puhnqp3rn3dpu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.atchat",
+            "certificate_hash": "670f708f9fbda1eec45c4bae148d2277d5a2b45b"
+          }
+        },
+        {
+          "client_id": "877173757279-iq68uditvojm37ac1hm4ktbhm4ahcdv4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOJtlVw2JYMoFk4CupHl8smimDmgztTUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877173757279-iq68uditvojm37ac1hm4ktbhm4ahcdv4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
